@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/temaaako" target="_blank">Artem🖖</a> </h1>
 <h3 align="center">ITMO University student, big fan of technologies and games </h3>
-
+<h4 align="center">ITMO University student, big fan of technologies and games </h4>
 <!--
 **temaaako/temaaako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
