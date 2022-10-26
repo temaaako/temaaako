@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/temaaako" target="_blank">Artem🖖</a> </h1>
 <h3 align="center">ITMO University student, big fan of technologies and games </h3>
-<h4 align="center">ITMO University student, big fan of technologies and games </h4>
+
 <!--
 **temaaako/temaaako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">Here is my first game</p>
+<p align="center">Here is my first game <a href="https://apps.rustore.ru/app/com.TrickyBit.ColorLinesformyMom">Color Lines</a></p>
 <p float="left" align="center">
  <img src="https://user-images.githubusercontent.com/58732845/198079471-f8eff07d-a738-4b7b-9407-3bf5a0e7e133.jpg" alt="drawing" width="300"/>
 <img src="https://user-images.githubusercontent.com/58732845/198079536-e2eb3046-da8e-4fd5-a05e-f103ff7d79d5.jpg" alt="drawing" width="300"/>
